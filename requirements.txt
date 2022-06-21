@@ -1,0 +1,14 @@
+numpy
+opencv-python
+pandas
+tqdm
+pyyaml
+seaborn
+torch==1.9.0
+torchvision==0.10.0
+facenet_pytorch
+face-detection==0.2.1
+thop
+sklearn
+gdown
+onnx
